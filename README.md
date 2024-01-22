@@ -42,7 +42,11 @@ TAVE_데이터 분석_12기
 
   
 ## 📝 프로젝트 아키텍쳐
+<img width="740" alt="KakaoTalk_20240123_015858502" src="https://github.com/maeseok/TAVE_Project/assets/87814233/145ae90f-928c-4dee-96d9-acbbb54af0f2">
+
+
 ![프로젝트 아키텍쳐](https://github.com/maeseok/TAVE_Project/assets/87814233/a755947d-6fc9-4234-810e-0bd422c8aee5)
+
 
 
 ## 📷 웹툰 얼굴 인식 및 특징점 추출
@@ -51,7 +55,12 @@ TAVE_데이터 분석_12기
 
 
 ## 🎥 배우 얼굴 인식 및 특징점 추출
+![KakaoTalk_20240123_012200282](https://github.com/maeseok/TAVE_Project/assets/87814233/0dd1c737-bf5c-42f3-af71-347f2db8cc12)
 ![KakaoTalk_20240123_004908356](https://github.com/maeseok/TAVE_Project/assets/87814233/1077f7fa-22ac-47f2-83fc-883da8e2b8f3)
+
+
+## 📈 모델 성능 비교
+![image](https://github.com/maeseok/TAVE_Project/assets/87814233/5f0ae995-9906-4f91-9ad2-eca797f55aa2)
 
 
 ## ❓ How to use?
