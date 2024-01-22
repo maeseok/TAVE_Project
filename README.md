@@ -37,3 +37,10 @@ TAVE_데이터 분석_12기
 - **정보 공유** : Notion
 
 ************
+
+![Untitled (2)](https://github.com/maeseok/TAVE_Project/assets/87814233/18a500d5-a8be-46ab-8bf1-3415cabf3cd8)
+![Untitled (3)](https://github.com/maeseok/TAVE_Project/assets/87814233/292c0278-47d5-4d27-a3a9-962abc60191a)
+
+
+
+
