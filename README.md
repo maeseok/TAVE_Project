@@ -2,7 +2,11 @@
 웹툰 실사화 배우 추천 시스템
 
 
-![Untitled (1)](https://github.com/maeseok/TAVE_Project/assets/87814233/b116c32e-1315-4e32-8771-a3802efef7e2)
+![Untitled (1)](https://github.com/maeseok/TAVE_Project/assets/87814233/8d33ed25-1433-44a7-b02a-ee1921e2f5d4)
+
+
+
+
 
 ## 👨‍🏫 프로젝트 소개
 최근 비질란테, 이두나 등 웹툰을 원작으로 실사화한 드라마가 이슈화됨에 따라 트렌드를 따라가는 주제 선정으로, 더 높은 유사도의 배우 캐스팅과 현재 실사화 되지 않은 웹툰의 궁금증 해결을 목표로 함.
@@ -36,11 +40,30 @@ TAVE_데이터 분석_12기
 - **온라인 회의** : Google meet
 - **정보 공유** : Notion
 
-************
+  
+## 📝 프로젝트 아키텍쳐
+![프로젝트 아키텍쳐](https://github.com/maeseok/TAVE_Project/assets/87814233/a755947d-6fc9-4234-810e-0bd422c8aee5)
 
+
+## 📷 웹툰 얼굴 인식 및 특징점 추출
 ![Untitled (2)](https://github.com/maeseok/TAVE_Project/assets/87814233/18a500d5-a8be-46ab-8bf1-3415cabf3cd8)
 ![Untitled (3)](https://github.com/maeseok/TAVE_Project/assets/87814233/292c0278-47d5-4d27-a3a9-962abc60191a)
 
 
+## 🎥 배우 얼굴 인식 및 특징점 추출
+![KakaoTalk_20240123_004908356](https://github.com/maeseok/TAVE_Project/assets/87814233/1077f7fa-22ac-47f2-83fc-883da8e2b8f3)
 
+
+## ❓ How to use?
+![image](https://github.com/maeseok/TAVE_Project/assets/87814233/6e0c6cd3-ef51-4480-961c-613314e1d525)
+
+
+
+1. 웹툰 및 인물 선택
+
+  
+2. VIT 모델을 통한 결과 추출
+
+
+3. 관련있는 상위 3명의 배우 사진 출력
 
