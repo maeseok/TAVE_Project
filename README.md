@@ -28,7 +28,9 @@ TAVE_데이터 분석_12기
 - **[이형석](https://blog.naver.com/mae_seok)** : 크롤러 구축, Opencv 등
 - **강민경** : 배우 벡터값 스케일링, SVM 등
 - **김예영** : CNN, 논문 분석 등
-  
+
+![개발자 소개](https://github.com/maeseok/TAVE_Project/assets/87814233/a60d25be-8afe-489e-bf8f-e8d8633fc487)
+
 ## 💻 개발환경
 - **IDE** : Visual Studio Code, Jupyter notebook, Colab
 - **Framework** : Flutter, Fastapi
